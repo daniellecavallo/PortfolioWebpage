@@ -1,0 +1,74 @@
+body {
+    background-color: pink; /* Light pink background */
+    color: white; /* Pink text color */
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New';
+  }
+  
+  nav {
+    background-color: #f8bbd0; /* Light pink navigation bar background */
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New';
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+    font-family: 'Courier New';
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: white; 
+    font-family: 'Courier New';/* Pink link color */
+  }
+  
+  header {
+    background-color: white; /* Dark pink header background */
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    background-color: #f06292; /* Light pink section background */
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    background-color: #f8bbd0; /* Light pink footer background */
+    padding: 10px;
+    text-align: center;
+  }
+
+
+  #container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+ }
+
+ img {
+    height: 750px;
+    width: 575px;
+    border: solid 5px #da1c68;
+ }
+ h2 {
+    font-family: 'Courier New';
+ }
