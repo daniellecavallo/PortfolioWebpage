@@ -18,3 +18,9 @@ THEN I am presented with a responsive layout that adapts to my viewport
 This CSS page will be deployed and accessable through 
 https://github.com/daniellecavallo/personalportfolio
 
+## Credits
+
+Columbia Engineering bootcamp 
+
+## License
+MIT License
