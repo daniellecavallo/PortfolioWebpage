@@ -6,6 +6,7 @@ This webpage is a portfolio giving me the oppertunity to showcase my work and sh
 # Usage
 This CSS page will be deployed and accessable through 
 https://daniellecavallo.github.io/PortfolioWebpage/
+Screenshot 
 
 
 # Credits
