@@ -6,8 +6,9 @@ This webpage is a portfolio giving me the oppertunity to showcase my work and sh
 # Usage
 This CSS page will be deployed and accessable through 
 https://daniellecavallo.github.io/PortfolioWebpage/
-Screenshot 
-
+Screenshot ![first screenshot of portfolio](assets/screenshot1.png)
+Screenshot ![second screenshot of portfolio](assets/screenshot2.png)
+Screenshot ![third screenshot of portfolio](assets/screenshot3.png)
 
 # Credits
 
